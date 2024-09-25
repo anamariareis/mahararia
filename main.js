@@ -13,4 +13,4 @@ let media= function(numero1,numero2,numero3){
 }
 console.log(media(1,2,3) )
 let nome=prompt('nome')
-documentwrite(nome)
+documentwrite(qual a média dos valores)
